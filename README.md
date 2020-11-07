@@ -12,6 +12,6 @@
 
 1.下载安装Rainbow-Fart插件
 
-2.clone后下载解压本项目
+2.clone或下载后解压本项目
 
 3.在idea中的Rainbow-Fart设置中，设置自己相应的文件路径
